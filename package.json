@@ -1,0 +1,9 @@
+{
+  "name": "Ludis",
+  "version": "1.0.0",
+  "description": "Ludis web app front end.",
+  "main": "index.js",
+  "author": "Charles Vidrine",
+  "license": "MIT",
+  "private": true
+}
